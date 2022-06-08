@@ -6,10 +6,12 @@ theme: minima
 author: Marco Vinicio Oquendo Cevallos
 email: marcooquendoc@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
+=======
   Solved problems in hackerrank or freeCodeCamp
-
 # social links
 twitter_username: marcooquendoc
 github_username: MarcoOquendoC
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-minimal
